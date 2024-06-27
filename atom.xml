@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦栖堂</title>
+  <icon>https://www.gravatar.com/avatar/36151b3718130d6f14096b82d57ac41d</icon>
+  <subtitle>2021级7班</subtitle>
+  <link href="http://class7-2021.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://class7-2021.github.io/"/>
+  <updated>2024-06-27T01:18:09.153Z</updated>
+  <id>http://class7-2021.github.io/</id>
+  
+  <author>
+    <name>Executor</name>
+    <email>rain_wind1217@outlook.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>王子爱x曹文舜的爱情故事</title>
+    <link href="http://class7-2021.github.io/2024/06/27/wzaxcws/"/>
+    <id>http://class7-2021.github.io/2024/06/27/wzaxcws/</id>
+    <published>2024-06-27T00:57:54.000Z</published>
+    <updated>2024-06-27T01:18:09.153Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;简介：本文国家一级文章阅读员小艺编写如有雷同联系删除，这是记载了我的好朋友王子爱和鱼的爱情故事有真人投稿严禁打假&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;九月的阳光如同一幅金色的画卷，洒落在校园的每一个角落。同学们踏着落叶走进教室，一个关于少年和少女的浪漫</summary>
+        
+      
+    
+    
+    
+    <category term="创作类" scheme="http://class7-2021.github.io/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+    
+    
+    <category term="cp" scheme="http://class7-2021.github.io/tags/cp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>班级名册</title>
+    <link href="http://class7-2021.github.io/2024/06/25/%E7%8F%AD%E7%BA%A7%E5%90%8D%E5%86%8C/"/>
+    <id>http://class7-2021.github.io/2024/06/25/%E7%8F%AD%E7%BA%A7%E5%90%8D%E5%86%8C/</id>
+    <published>2024-06-25T14:10:01.000Z</published>
+    <updated>2024-06-26T04:55:48.055Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;这里收录了2021级7班目前仍在五十中蜀外就读的所有同学的档案（姓名后未填写加入日期的默认为于2021&amp;#x2F;9任职）&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;班长：&lt;del&gt;王瑞淇&lt;/del&gt;（于2022年卸任），丁殊涵（于2022年任职），&lt;del&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="记录类" scheme="http://class7-2021.github.io/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+    <category term="关于" scheme="http://class7-2021.github.io/tags/%E5%85%B3%E4%BA%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>班级梗与黑话</title>
+    <link href="http://class7-2021.github.io/2024/06/25/%E7%8F%AD%E7%BA%A7%E6%A2%97%E4%B8%8E%E9%BB%91%E8%AF%9D/"/>
+    <id>http://class7-2021.github.io/2024/06/25/%E7%8F%AD%E7%BA%A7%E6%A2%97%E4%B8%8E%E9%BB%91%E8%AF%9D/</id>
+    <published>2024-06-25T14:10:01.000Z</published>
+    <updated>2024-06-26T12:41:37.591Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;众所周知，每个班都有其独特的梗与黑话，七班也不例外。这里展示了七班的班级梗与黑话&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-管家——受害人：蒋自豪&quot;&gt;&lt;a href=&quot;#1-管家——受害人：蒋自豪&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="记录类" scheme="http://class7-2021.github.io/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+    <category term="关于" scheme="http://class7-2021.github.io/tags/%E5%85%B3%E4%BA%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://class7-2021.github.io/2024/06/25/hello-world/"/>
+    <id>http://class7-2021.github.io/2024/06/25/hello-world/</id>
+    <published>2024-06-25T09:37:25.475Z</published>
+    <updated>2024-06-25T09:37:25.475Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
